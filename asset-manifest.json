@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.6b8b287a.chunk.css",
-    "main.js": "/static/js/main.ca64292f.chunk.js",
-    "main.js.map": "/static/js/main.ca64292f.chunk.js.map",
+    "main.css": "/static/css/main.af552ad3.chunk.css",
+    "main.js": "/static/js/main.a89ad0d7.chunk.js",
+    "main.js.map": "/static/js/main.a89ad0d7.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ba1c375c.js",
     "runtime-main.js.map": "/static/js/runtime-main.ba1c375c.js.map",
-    "static/js/2.ef58bf71.chunk.js": "/static/js/2.ef58bf71.chunk.js",
-    "static/js/2.ef58bf71.chunk.js.map": "/static/js/2.ef58bf71.chunk.js.map",
+    "static/js/2.7ec45003.chunk.js": "/static/js/2.7ec45003.chunk.js",
+    "static/js/2.7ec45003.chunk.js.map": "/static/js/2.7ec45003.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.6b8b287a.chunk.css.map": "/static/css/main.6b8b287a.chunk.css.map",
-    "static/js/2.ef58bf71.chunk.js.LICENSE.txt": "/static/js/2.ef58bf71.chunk.js.LICENSE.txt",
+    "static/css/main.af552ad3.chunk.css.map": "/static/css/main.af552ad3.chunk.css.map",
+    "static/js/2.7ec45003.chunk.js.LICENSE.txt": "/static/js/2.7ec45003.chunk.js.LICENSE.txt",
     "static/media/dingocoin.15331900.png": "/static/media/dingocoin.15331900.png",
     "static/media/App.scss": "/static/media/dingocoinnftplatform.928ae671.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ba1c375c.js",
-    "static/js/2.ef58bf71.chunk.js",
-    "static/css/main.6b8b287a.chunk.css",
-    "static/js/main.ca64292f.chunk.js"
+    "static/js/2.7ec45003.chunk.js",
+    "static/css/main.af552ad3.chunk.css",
+    "static/js/main.a89ad0d7.chunk.js"
   ]
 }
