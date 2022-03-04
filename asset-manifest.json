@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.08dfa35d.chunk.css",
+    "main.css": "/static/css/main.1d4d37ab.chunk.css",
     "main.js": "/static/js/main.322d1d21.chunk.js",
     "main.js.map": "/static/js/main.322d1d21.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ba1c375c.js",
@@ -8,7 +8,7 @@
     "static/js/2.e3d6b52f.chunk.js": "/static/js/2.e3d6b52f.chunk.js",
     "static/js/2.e3d6b52f.chunk.js.map": "/static/js/2.e3d6b52f.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.08dfa35d.chunk.css.map": "/static/css/main.08dfa35d.chunk.css.map",
+    "static/css/main.1d4d37ab.chunk.css.map": "/static/css/main.1d4d37ab.chunk.css.map",
     "static/js/2.e3d6b52f.chunk.js.LICENSE.txt": "/static/js/2.e3d6b52f.chunk.js.LICENSE.txt",
     "static/media/dingocoin.15331900.png": "/static/media/dingocoin.15331900.png",
     "static/media/App.scss": "/static/media/dingocoinnftplatform.928ae671.png"
@@ -16,7 +16,7 @@
   "entrypoints": [
     "static/js/runtime-main.ba1c375c.js",
     "static/js/2.e3d6b52f.chunk.js",
-    "static/css/main.08dfa35d.chunk.css",
+    "static/css/main.1d4d37ab.chunk.css",
     "static/js/main.322d1d21.chunk.js"
   ]
 }
