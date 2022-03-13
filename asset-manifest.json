@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.a03c4ac4.chunk.css",
-    "main.js": "/static/js/main.5ca5e34a.chunk.js",
-    "main.js.map": "/static/js/main.5ca5e34a.chunk.js.map",
+    "main.js": "/static/js/main.ed6bfbaf.chunk.js",
+    "main.js.map": "/static/js/main.ed6bfbaf.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ba1c375c.js",
     "runtime-main.js.map": "/static/js/runtime-main.ba1c375c.js.map",
-    "static/js/2.256e1091.chunk.js": "/static/js/2.256e1091.chunk.js",
-    "static/js/2.256e1091.chunk.js.map": "/static/js/2.256e1091.chunk.js.map",
+    "static/js/2.e1715eed.chunk.js": "/static/js/2.e1715eed.chunk.js",
+    "static/js/2.e1715eed.chunk.js.map": "/static/js/2.e1715eed.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.a03c4ac4.chunk.css.map": "/static/css/main.a03c4ac4.chunk.css.map",
-    "static/js/2.256e1091.chunk.js.LICENSE.txt": "/static/js/2.256e1091.chunk.js.LICENSE.txt",
+    "static/js/2.e1715eed.chunk.js.LICENSE.txt": "/static/js/2.e1715eed.chunk.js.LICENSE.txt",
     "static/media/dingocoin.15331900.png": "/static/media/dingocoin.15331900.png",
     "static/media/App.scss": "/static/media/dingocoinnftplatform.928ae671.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ba1c375c.js",
-    "static/js/2.256e1091.chunk.js",
+    "static/js/2.e1715eed.chunk.js",
     "static/css/main.a03c4ac4.chunk.css",
-    "static/js/main.5ca5e34a.chunk.js"
+    "static/js/main.ed6bfbaf.chunk.js"
   ]
 }
