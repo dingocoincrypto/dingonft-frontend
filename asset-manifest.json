@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.6cc4eb92.chunk.css",
-    "main.js": "/static/js/main.3dae52ff.chunk.js",
-    "main.js.map": "/static/js/main.3dae52ff.chunk.js.map",
+    "main.css": "/static/css/main.fbd0eb68.chunk.css",
+    "main.js": "/static/js/main.324b0465.chunk.js",
+    "main.js.map": "/static/js/main.324b0465.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ba1c375c.js",
     "runtime-main.js.map": "/static/js/runtime-main.ba1c375c.js.map",
     "static/js/2.f8d80262.chunk.js": "/static/js/2.f8d80262.chunk.js",
     "static/js/2.f8d80262.chunk.js.map": "/static/js/2.f8d80262.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.6cc4eb92.chunk.css.map": "/static/css/main.6cc4eb92.chunk.css.map",
+    "static/css/main.fbd0eb68.chunk.css.map": "/static/css/main.fbd0eb68.chunk.css.map",
     "static/js/2.f8d80262.chunk.js.LICENSE.txt": "/static/js/2.f8d80262.chunk.js.LICENSE.txt",
     "static/media/dingocoin.15331900.png": "/static/media/dingocoin.15331900.png",
     "static/media/App.scss": "/static/media/dingocoinnftplatform.928ae671.png"
@@ -16,7 +16,7 @@
   "entrypoints": [
     "static/js/runtime-main.ba1c375c.js",
     "static/js/2.f8d80262.chunk.js",
-    "static/css/main.6cc4eb92.chunk.css",
-    "static/js/main.3dae52ff.chunk.js"
+    "static/css/main.fbd0eb68.chunk.css",
+    "static/js/main.324b0465.chunk.js"
   ]
 }
