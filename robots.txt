@@ -1,5 +1,4 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
-Allow: /$
-Disallow: /
+Allow: /
 Sitemap: https://nft.dingocoin.org/sitemap.xml
