@@ -1,8 +1,8 @@
-const META_BUCKET = "https://dingo-nft-meta.s3.us-west-1.amazonaws.com";
-const PREVIEW_BUCKET = "https://dingo-nft-preview.s3.us-west-1.amazonaws.com";
-const STATE_BUCKET = "https://dingo-nft-state.s3.us-west-1.amazonaws.com";
-const PROFILE_BUCKET = "https://dingo-nft-profile.s3.us-west-1.amazonaws.com";
-const COLLECTION_BUCKET = "https://dingo-nft-collection.s3.us-west-1.amazonaws.com";
+const META_BUCKET = "https://dingo-nftc-0-meta.nyc3.digitaloceanspaces.com";
+const PREVIEW_BUCKET = "https://dingo-nftc-0-preview.nyc3.digitaloceanspaces.com";
+const STATE_BUCKET = "https://dingo-nftc-0-state.nyc3.digitaloceanspaces.com";
+const PROFILE_BUCKET = "https://dingo-nftc-0-profile.nyc3.digitaloceanspaces.com";
+const COLLECTION_BUCKET = "https://dingo-nftc-0-collection.nyc3.digitaloceanspaces.com";
 
 const get = (link) => {
   const controller = new AbortController();
