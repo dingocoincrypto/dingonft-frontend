@@ -154,6 +154,11 @@ function Main() {
           <p className="text-center">
             You need Dingocoin's browser wallet to create and trade NFTs. Take
             less than a minute to set this up.
+            <br />
+            <br />
+            Warning: You must back up your private key,
+            <br />
+            this is a non-custodial service!
           </p>
           <a href="https://dingocoin.org" target="_blank">
             <Button className="popup-button px-4 py-2 mt-2" variant="primary">
