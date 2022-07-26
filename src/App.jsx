@@ -28,6 +28,8 @@ import {
   faShoppingBag,
 } from "@fortawesome/free-solid-svg-icons";
 import DingocoinLogo from "./assets/img/dingocoin.png";
+import MaintLogo from "./assets/img/Comp-1_1.gif";
+
 import React from "react";
 import {
   BrowserRouter as Router,
@@ -36,8 +38,9 @@ import {
   Navigate,
 } from "react-router-dom";
 import Main from "./Main";
+import Maintenance from "./Maintenance"
+export default function App() {
 
-function App() {
   const [location, setLocation] = React.useState(null);
   React.useEffect(() => {
     setLocation(window.location.pathname);
@@ -56,8 +59,14 @@ function App() {
       window.location.assign(`/search?query=${searchQuery.trim()}`);
     }
   };
-
+{/*Toggle Maint Mode  const maintenance=   | true = Maint Mode on  |  false = Maint Mode Off*/}
+  const maintenance = true;  {/*<--- Toggle ON/OFF Here*/}
   return (
+    <>
+      {maintenance ? (
+        <Maintenance />
+      ) : (
+
     <div className="App">
       <Navbar className="navbar px-4 py-2" bg="dark" expand="lg" sticky="top">
         <Navbar.Brand href="/" className="navbar-brand align-items-center">
@@ -136,7 +145,6 @@ function App() {
           </Nav>
         </Navbar.Collapse>
       </Navbar>
-
       <section className="section-content">
         <Router>
           <Routes>
@@ -198,7 +206,7 @@ function App() {
         </Modal.Body>
       </Modal>
     </div>
+     )}
+    </>
   );
 }
-
-export default App;
