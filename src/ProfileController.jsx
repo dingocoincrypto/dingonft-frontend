@@ -253,7 +253,7 @@ function ProfileController() {
   }, [resellPrice, nftState]);
   React.useEffect(() => {
     if (repricePrice === "") {
-      setRepricePriceError("Reprice price required");
+      setRepricePriceError("Reduced price required");
     } else {
       setRepricePriceError("");
     }
@@ -961,7 +961,7 @@ function ProfileController() {
         <div className="profile-section py-3">
           <div className="d-flex flex-row content-header">
             <span className="me-auto content-title accent">
-              Reprice this NFT
+              Reduce NFT price
             </span>
           </div>
           <div>
@@ -993,7 +993,7 @@ function ProfileController() {
                   <div className="mt-4 text-center px-4">
                     <Form.Group>
                       <Form.Label>
-                        <b>Reprice at (*required)</b>
+                        <b>Reduced price at (*required)</b>
                       </Form.Label>
                       <Form.Control
                         type="text"
@@ -1014,7 +1014,7 @@ function ProfileController() {
                         </div>
                       )}
                       <Form.Text className="text-muted">
-                        New sell price for this NFT (min. 1 Dingocoin).
+                        New reduced sell price for NFT (min. 1 Dingocoin).
                       </Form.Text>
                     </Form.Group>
                   </div>
@@ -1025,7 +1025,7 @@ function ProfileController() {
                       disabled={repricePriceError !== ""}
                       onClick={doReprice}
                     >
-                      Reprice NFT
+                      Reduce NFT price
                     </Button>
                   </div>
                 </div>
