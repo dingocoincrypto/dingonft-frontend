@@ -132,7 +132,7 @@ export default function App() {
                 <nobr>Create</nobr>
               </span>
             </Nav.Link>
-            <Nav.Link href="https://docs.google.com/forms/d/1l43ZZUbnboaqBbnhXHByLJGupor4-j-zSeLvdBNkU6Y/edit?ts=629be28e" target="_blank" rel="nofollow">
+            <Nav.Link href="https://forms.gle/jxhWR7EMWV7fivn46" target="_blank" rel="noreffere">
               <span className="align-middle">
                 <nobr>Report</nobr>
               </span>

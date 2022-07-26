@@ -1,6 +1,6 @@
 import { post } from "./utils";
 
-const API_URL = "https://nftp0.dingocoin.io";
+const API_URL = "api_url";
 //const API_URL = "http://localhost:33332";
 
 const getBusy = async (data) => {
