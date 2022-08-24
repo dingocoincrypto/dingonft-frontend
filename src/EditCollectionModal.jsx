@@ -20,7 +20,14 @@ function EditCollectionModal(props) {
         if (createdNfts.length > 0) {
           const createdNftNames = await Promise.all(
             createdNfts.map(async (x) => {
-              return (await getMeta(x)).name;
+              let meta = await getMeta(x);
+              let name = "";
+              if(meta == null) {
+                name = "error: NO_NAME";
+              } else {
+                name = meta.name;
+              }
+              return name;
             })
           );
           setCreatedNfts(createdNfts.map((x, i) => [x, createdNftNames[i]]));
