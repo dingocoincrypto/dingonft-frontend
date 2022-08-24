@@ -60,7 +60,7 @@ export default function App() {
     }
   };
 {/*Toggle Maint Mode  const maintenance=   | true = Maint Mode on  |  false = Maint Mode Off*/}
-  const maintenance = true;  {/*<--- Toggle ON/OFF Here*/}
+  const maintenance = false;  {/*<--- Toggle ON/OFF Here*/}
   return (
     <>
       {maintenance ? (

@@ -24,7 +24,14 @@ function EditProfileModal(props) {
 
         let createdNftNames = await Promise.all(
           createdNfts.map(async (x) => {
-            return (await getMeta(x)).name;
+            let meta = await getMeta(x);
+            let name = "";
+            if(meta == null) {
+              name = "error: NO_NAME";
+            } else {
+              name = meta.name;
+            }
+            return name;
           })
         );
         setCreatedNfts(
