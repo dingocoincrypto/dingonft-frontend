@@ -160,7 +160,7 @@ function Main() {
             <br />
             this is a non-custodial service!
           </p>
-          <a href="https://dingocoin.org" target="_blank">
+          <a href="https://dingocoin.com" target="_blank">
             <Button className="popup-button px-4 py-2 mt-2" variant="primary">
               Visit Dingocoin
             </Button>
